@@ -1,4 +1,13 @@
-# Awesome-env – a list of awesome runtime version managers
+# Awesome Env [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+Version managers in the style of chruby, rbenv and rvm.
+
+## Contents
+
+- [List of \*env-, ch\*- and \*vm- style version managers](#list-of-env--ch--and-vm--style-version-managers)
+- [False friends](#false-friends)
+- [Plugins](#plugins)
+- [Integration](#integration)
 
 ## List of \*env-, ch\*- and \*vm- style version managers
 
@@ -88,8 +97,7 @@ The following pieces of software are **runtime version managers** in the style o
 
 ## False friends
 
-The following pieces of software all end in -`env` **but aren’t**
-runtime version managers:
+The following pieces of software all end in -`env` **but are not** runtime version managers:
 
 - Python virtualenv managers
     - [pipenv](https://pipenv.pypa.io/en/latest/)
@@ -141,18 +149,6 @@ A list of asdf plugins can be found at: https://asdf-vm.com/#/plugins-all?id=plu
 - [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 - [zsh-rbenv](https://github.com/mattberther/zsh-rbenv)
 
-## Rules
+## Contributing
 
-To make the main list, a version manager should:
-
-- be a **command-line** program;
-- be somewhat actively **maintained**;
-- have a **primary purpose** of runtime version management; and
-- be somewhat **useful**.
-
-## License
-
-[CC0](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the awesome-env contributors have
-waived all copyright and related or neighboring rights to awesome-env.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
