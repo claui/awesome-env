@@ -78,6 +78,7 @@ The following pieces of software are **runtime version managers** in the style o
     - [pyenv](https://github.com/pyenv/pyenv)
 - Ruby
     - [chruby](https://github.com/postmodern/chruby)
+    - [frum](https://github.com/TaKO8Ki/frum/)
     - [rbenv](https://github.com/rbenv/rbenv)
     - [rvm](https://rvm.io/)
     - [vruby](https://github.com/joefiorini/vruby)
