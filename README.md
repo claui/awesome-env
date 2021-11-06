@@ -100,12 +100,8 @@ The following pieces of software are **runtime version managers** in the style o
 
 The following pieces of software all end in -`env` **but are not** runtime version managers:
 
-- Python virtualenv managers
-    - [pipenv](https://pipenv.pypa.io/en/latest/)
-    - [venv](https://docs.python.org/3/library/venv.html)
-    - [virtualenv](https://virtualenv.pypa.io/en/latest/)
-- Process environment managers
-    - [shadowenv](https://github.com/Shopify/shadowenv)
+- Python virtualenv managers: pipenv, venv, virtualenv
+- Process environment managers: shadowenv
 
 ## Plugins
 
