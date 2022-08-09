@@ -1,6 +1,7 @@
 # Awesome Env [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Version managers in the style of chruby, rbenv and rvm.
+Version managers in the style of chruby, rbenv and rvm.  
+Manage separate installations of the exact development platform versions that your projects need.
 
 ## Contents
 
