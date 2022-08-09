@@ -5,7 +5,6 @@ Version managers in the style of chruby, rbenv and rvm.
 ## Contents
 
 - [List of \*env-, ch\*- and \*vm- style version managers](#list-of-env--ch--and-vm--style-version-managers)
-- [False friends](#false-friends)
 - [Plugins](#plugins)
 - [Integration](#integration)
 
