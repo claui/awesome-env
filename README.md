@@ -68,13 +68,6 @@ The following pieces of software are **runtime version managers** in the style o
 - Xcode
     - [xcode-select](https://developer.apple.com/library/archive/technotes/tn2339/_index.html)
 
-## False friends
-
-The following pieces of software all end in -`env` **but are not** runtime version managers:
-
-- Python virtualenv managers: pipenv, venv, virtualenv
-- Process environment managers: shadowenv
-
 ## Plugins
 
 ### Plugins for anyenv
