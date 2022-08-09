@@ -84,7 +84,7 @@ The following pieces of software all end in -`env` **but are not** runtime versi
 
 ### Plugins for asdf
 
-A list of asdf plugins can be found at: https://asdf-vm.com/#/plugins-all?id=plugin-list
+A list of asdf plugins can be found at: https://github.com/topics/asdf-plugin
 
 ### Plugins for pyenv
 
