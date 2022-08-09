@@ -59,7 +59,7 @@ The following pieces of software are **runtime version managers** in the style o
 - Rust
     - [rustup](https://github.com/rust-lang/rustup)
 - Solidity
-    - [svm](https://github.com/web3j/svm)
+    - [svm](https://github.com/josh-richardson/svm)
 - Swift
     - [swiftenv](https://github.com/kylef/swiftenv)
 - Terraform and Terragrunt
