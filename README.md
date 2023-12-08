@@ -74,8 +74,11 @@ The following pieces of software are **runtime version managers** in the style o
 
 ### Plugins for asdf
 
-A list of asdf plugins can be found at:
-[topics/asdf-plugin](https://github.com/topics/asdf-plugin)
+A curated list of asdf plugins can be found at:
+[asdf-plugins](https://github.com/asdf-vm/asdf-plugins)
+
+Or browse the [`asdf-plugin`](https://github.com/topics/asdf-plugin)
+GitHub topic to discover plugins.
 
 ### Plugins for pyenv
 
