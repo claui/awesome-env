@@ -16,6 +16,7 @@ The following pieces of software are **runtime version managers** in the style o
 - Multiple platforms
   - [anyenv](https://github.com/anyenv/anyenv)
   - [asdf](https://asdf-vm.com)
+  - [rtx](https://github.com/jdx/rtx)
   - [SDKMAN](https://sdkman.io/)
 - Crystal
   - [crenv](https://github.com/crenv/crenv)
@@ -90,6 +91,11 @@ GitHub topic to discover plugins.
 
 - [rbenv-aliases](https://github.com/tpope/rbenv-aliases)
 - [rbenv-bundler](https://github.com/carsomyr/rbenv-bundler)
+
+### Plugins for rtx
+
+- [rtx-pipenv](https://github.com/rtx-plugins/rtx-pipenv)
+- [rtx-poetry](https://github.com/rtx-plugins/rtx-poetry)
 
 ## Integration
 
