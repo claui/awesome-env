@@ -28,6 +28,8 @@ The following pieces of software are **runtime version managers** in the style o
   - [kiex](https://github.com/taylor/kiex)
 - Erlang
   - [kerl](https://github.com/kerl/kerl)
+- Flutter
+  - [fvm](https://github.com/leoafarias/fvm)
 - Go
   - [goenv](https://github.com/syndbg/goenv)
 - Java
@@ -116,6 +118,7 @@ See Community section for ways to discover asdf plugins.
 - [`asdf-plugin`](https://github.com/topics/asdf-plugin) - a GitHub topic you can follow to discover plugins.
 - [asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - a curated list of asdf plugins.
 - [Use asdf to manage versions of Python, NodeJS, GoLang and more](https://www.youtube.com/watch?v=RTaqWRj-6Lg) - YouTube tutorial by sontec
+- [Flutter Version individual for every project](https://www.youtube.com/watch?v=R6vKde1vIGQ) - YouTube video by Flutter Explained
 - [How to install and use Node Version Manager (NVM)](https://www.youtube.com/watch?v=ohBFbA0O6hs) - YouTube tutorial by Dev Café
 
 ## Contributing
