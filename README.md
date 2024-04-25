@@ -20,6 +20,7 @@ The following pieces of software are **runtime version managers** in the style o
   - [asdf](https://asdf-vm.com)
   - [rtx](https://github.com/jdx/rtx)
   - [SDKMAN](https://sdkman.io/)
+  - [vfox](https://vfox.lhan.me)
   - [Volta](https://github.com/volta-cli/volta)
 - Crystal
   - [crenv](https://github.com/crenv/crenv)
