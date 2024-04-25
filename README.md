@@ -8,6 +8,8 @@ Manage separate installations of the exact development platform versions that yo
 - [List of \*env-, ch\*- and \*vm- style version managers](#list-of-env--ch--and-vm--style-version-managers)
 - [Plugins](#plugins)
 - [Integration](#integration)
+- [Community](#community)
+- [See also](#see-also)
 
 ## List of \*env-, ch\*- and \*vm- style version managers
 
@@ -75,11 +77,7 @@ The following pieces of software are **runtime version managers** in the style o
 
 ### Plugins for asdf
 
-A curated list of asdf plugins can be found at:
-[asdf-plugins](https://github.com/asdf-vm/asdf-plugins)
-
-Or browse the [`asdf-plugin`](https://github.com/topics/asdf-plugin)
-GitHub topic to discover plugins.
+See Community section for ways to discover asdf plugins.
 
 ### Plugins for pyenv
 
@@ -112,6 +110,18 @@ GitHub topic to discover plugins.
 - [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 - [zsh-rbenv](https://github.com/mattberther/zsh-rbenv)
 
+## Community
+
+- [asdf-community](https://github.com/asdf-community) - a collaborative effort that aims to keep asdf plugins maintained.
+- [`asdf-plugin`](https://github.com/topics/asdf-plugin) - a GitHub topic you can follow to discover plugins.
+- [asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - a curated list of asdf plugins.
+- [Use asdf to manage versions of Python, NodeJS, GoLang and more](https://www.youtube.com/watch?v=RTaqWRj-6Lg) - YouTube tutorial by sontec
+- [How to install and use Node Version Manager (NVM)](https://www.youtube.com/watch?v=ohBFbA0O6hs) - YouTube tutorial by Dev Café
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## See also
+
+- [bernardoduarte/awesome-version-managers](https://github.com/bernardoduarte/awesome-version-managers)
